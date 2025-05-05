@@ -20,6 +20,34 @@ void Grid::Initialize()
             grid[row][column] = 0;
         }
     }
+    for (int row = 0; row < numRows; row++)
+    {
+        for (int column = 0; column < numCols; column++)
+        {
+            grid[row][column] = 0;
+        }
+    }
+    for (int row = 0; row < numRows; row++)
+    {
+        for (int column = 0; column < numCols; column++)
+        {
+            grid[row][column] = 0;
+        }
+    }
+    for (int row = 0; row < numRows; row++)
+    {
+        for (int column = 0; column < numCols; column++)
+        {
+            grid[row][column] = 0;
+        }
+    }
+    for (int row = 0; row < numRows; row++)
+    {
+        for (int column = 0; column < numCols; column++)
+        {
+            grid[row][column] = 0;
+        }
+    }
 }
 
 void Grid::Print()
