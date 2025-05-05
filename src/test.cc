@@ -30,6 +30,26 @@ Block Game::GetRandomBlock()
     {
         blocks = GetAllBlocks();
     }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
     int randomIndex = rand() % blocks.size();
     Block block = blocks[randomIndex];
     blocks.erase(blocks.begin() + randomIndex);
