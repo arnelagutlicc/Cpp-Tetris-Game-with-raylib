@@ -5,7 +5,7 @@
          "thresholds":[
             {
                "name":"constructor_max_arguments",
-               "value":5
+               "value":"5"
             },
             {
                "name":"file_lines_of_code_for_alert",
