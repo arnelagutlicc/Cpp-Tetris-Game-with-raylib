@@ -106,7 +106,7 @@
         },
         {
           "name": "Complex Method",
-          "weight": 1
+          "weight": 0.0
         },
         {
           "name": "Constructor Over-Injection",
