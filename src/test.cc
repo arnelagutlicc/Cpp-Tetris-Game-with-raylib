@@ -54,15 +54,631 @@ Block Game::GetRandomBlock()
     Block block = blocks[randomIndex];
     blocks.erase(blocks.begin() + randomIndex);
     return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    if (blocks.empty())
+    {
+        blocks = GetAllBlocks();
+    }
+    int randomIndex = rand() % blocks.size();
+    Block block = blocks[randomIndex];
+    blocks.erase(blocks.begin() + randomIndex);
+    return block;
 }
 
 std::vector<Block> Game::GetAllBlocks()
 {
-    return {IBlock(), JBlock(), LBlock(), OBlock(), SBlock(), TBlock(), ZBlock()};
+    return {IBlock(), JBlock(), LBlock(), OBlock(), SBlock(), TBlock(), ZBlock(), IBlock(), JBlock(), LBlock(), OBlock(), SBlock(), TBlock(), ZBlock(), IBlock(), JBlock(), LBlock(), OBlock(), SBlock(), TBlock(), ZBlock()};
 }
 
 void Game::Draw()
 {
+    grid.Draw();
+    currentBlock.Draw(11, 11);
+    switch (nextBlock.id)
+    {
+    case 3:
+        nextBlock.Draw(255, 290);
+        break;
+    case 4:
+        nextBlock.Draw(255, 280);
+        break;
+    default:
+        nextBlock.Draw(270, 270);
+        break;
+    }
+    grid.Draw();
+    currentBlock.Draw(11, 11);
+    switch (nextBlock.id)
+    {
+    case 3:
+        nextBlock.Draw(255, 290);
+        break;
+    case 4:
+        nextBlock.Draw(255, 280);
+        break;
+    default:
+        nextBlock.Draw(270, 270);
+        break;
+    }
+    grid.Draw();
+    currentBlock.Draw(11, 11);
+    switch (nextBlock.id)
+    {
+    case 3:
+        nextBlock.Draw(255, 290);
+        break;
+    case 4:
+        nextBlock.Draw(255, 280);
+        break;
+    default:
+        nextBlock.Draw(270, 270);
+        break;
+    }
+    grid.Draw();
+    currentBlock.Draw(11, 11);
+    switch (nextBlock.id)
+    {
+    case 3:
+        nextBlock.Draw(255, 290);
+        break;
+    case 4:
+        nextBlock.Draw(255, 280);
+        break;
+    default:
+        nextBlock.Draw(270, 270);
+        break;
+    }
     grid.Draw();
     currentBlock.Draw(11, 11);
     switch (nextBlock.id)
